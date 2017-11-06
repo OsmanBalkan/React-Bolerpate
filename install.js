@@ -8,4 +8,4 @@ Validate.configureHook('pre-commit#develop', ['lint:fix']);
 Validate.installHooks('pre-commit#develop');
 Validate.configureHook('pre-commit#master', ['lint:fix']);
 Validate.installHooks('pre-commit#master');
-const InValidate = "InValidate";
+const a = 'dfs';
