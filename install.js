@@ -9,4 +9,3 @@ Validate.installHooks('pre-commit#develop');
 Validate.configureHook('pre-commit#master', ['lint:fix']);
 Validate.installHooks('pre-commit#master');
 const a = 'dfs';
-const b = 'dfd'
