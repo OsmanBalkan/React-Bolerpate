@@ -11,3 +11,4 @@ Validate.installHooks('pre-commit#master');
 const a = 'dfs';
 const b = '2';
 const c = '3';
+const d = '4';
